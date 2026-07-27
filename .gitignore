@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+uploads/*
+vectorstore/*
+!uploads/.gitkeep
+!vectorstore/.gitkeep

@@ -1,0 +1,6 @@
+streamlit>=1.45,<2
+cohere>=5.0,<6
+faiss-cpu>=1.9,<2
+pypdf>=5.0,<7
+python-dotenv>=1.0,<2
+numpy>=1.26,<3
